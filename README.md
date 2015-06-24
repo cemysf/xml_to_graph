@@ -1,2 +1,2 @@
 # xml_to_graph
-Creating graphs from XML files
+Create graphs from XML files
